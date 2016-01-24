@@ -1,0 +1,2 @@
+//this is how you execute step3
+length(X,7), result([w,w,w,w],X).
